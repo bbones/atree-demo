@@ -1,5 +1,11 @@
 # atree-demo
 
+ 
+## Example API implemented @/src/api.js
+* getNodes(parent_id)
+* searchNodes(searchText)
+* getPath(id) - api call for path as array of ids from root to node with given id
+
 ## Project setup
 ```
 npm install
